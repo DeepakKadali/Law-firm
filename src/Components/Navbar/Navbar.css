@@ -1,0 +1,7 @@
+.nav {
+  background-color: var(--css-black-primary);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 15vh;
+}

@@ -1,0 +1,18 @@
+.card-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-section h2 {
+  color: var(--css-white);
+  font-size: 54px;
+  line-height: 77px;
+}
+
+.card-container {
+  margin: 5rem;
+  display: flex;
+  gap: 3rem;
+}

@@ -1,0 +1,23 @@
+.practice-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.practice-section h2 {
+  margin: 3rem;
+  color: var(--css-white);
+  font-size: 54px;
+}
+
+.practice-section-images-container {
+  margin: 3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.image-container {
+  display: flex;
+  gap: 2rem;
+}
